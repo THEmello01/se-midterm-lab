@@ -7,3 +7,4 @@ for test
 ทำ validation
 ทำ controller สำหรับ get post update delete
 ทำ UI
+ทำ validation
